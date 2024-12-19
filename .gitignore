@@ -1,0 +1,49 @@
+# Compilação
+*.class
+*.jar
+*.war
+*.ear
+
+# Diretórios de compilação
+/bin/
+/build/
+/out/
+/target/
+
+# Configurações do Eclipse
+*.classpath
+*.project
+*.settings/
+
+# Configurações do IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+
+# Arquivos do Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Arquivos do Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+
+# Banco de dados embarcado
+*.db
+*.sqlite
